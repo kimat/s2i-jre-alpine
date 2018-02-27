@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "---> Move prod.jar"
+mv /tmp/src/prod.jar ./
